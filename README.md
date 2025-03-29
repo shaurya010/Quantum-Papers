@@ -1,12 +1,8 @@
 # Quantum-Papers and Code
 
-This repository contains a list of some of the papers and publications, I have read through my journey through quantum.
+This repository contains a list of some of the papers and publications.
 
-I began working on this project through my undergraduate years and currently continue mantaining it in grad school.
-
-The objective of this project is not to curate a list of the most recommended publications for a beginner in quantum tech, but rather to build a journal (of sorts) that depics my journey through quantum publications. The full list of reads can be found here, but other branches include year by year breakdowns. The topics presented in this compilation often reflect my work and surges in interest through my time in this industry.
-
-An interactive web application is now available to navigate the collection, perform semantic searches, and explore relationships between authors, papers, and keywords through graph visualizations. Paper metadata enrichment including abstracts, keywords, authors, journals, and publication links (sourced via external APIs) is also integrated
+This repository contains publicly available research papers on Quantum Computing, including foundational concepts, algorithms, cryptographic applications, and advancements in quantum hardware. These papers have been authored and published by others and are included here for reference and educational purposes.
 
 
 Re-curring topics on this list include:
