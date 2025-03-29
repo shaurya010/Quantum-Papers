@@ -1,7 +1,5 @@
 # Quantum-Papers and Code
 
-This repository contains a list of some of the papers and publications.
-
 This repository contains publicly available research papers on Quantum Computing, including foundational concepts, algorithms, cryptographic applications, and advancements in quantum hardware. These papers have been authored and published by others and are included here for reference and educational purposes.
 
 
