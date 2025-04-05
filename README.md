@@ -391,6 +391,8 @@ and Stefan Woerner
        https://arxiv.org/abs/quant-ph/0003004
 
 ### Quantum Algorithms
+- Double-bracket quantum algorithms for diagonalization
+       https://arxiv.org/abs/2206.11772
 - A Grand Unification of Quantum Algorithms
        https://arxiv.org/abs/2105.02859
 - Bootstrap Embedding on a Quantum Computer
