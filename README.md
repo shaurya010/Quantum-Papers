@@ -391,6 +391,8 @@ and Stefan Woerner
        https://arxiv.org/abs/quant-ph/0003004
 
 ### Quantum Algorithms
+- Quantum algorithms for algebraic problems
+       https://arxiv.org/pdf/0812.0380
 - Double-bracket quantum algorithms for diagonalization
        https://arxiv.org/abs/2206.11772
 - A Grand Unification of Quantum Algorithms
